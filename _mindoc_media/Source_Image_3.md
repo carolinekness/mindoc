@@ -1,9 +1,9 @@
 ---
 page: source
-title: Image_of-Dogs-Source
+title: WWI-Image-Source
 media_type: image
 
-_title: Dogs
+_title: Poster
 description: Main page photo
 creator: Unknown
 _date: Unknown
@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: /assets/img/doggo.jpeg 
+_path: /assets/img/wwi_image_example.jpeg 
 order: '03'
 layout: image_description
 ---
